@@ -5,3 +5,4 @@ Git tracks changes.
 Git.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+Add merge on branch dev.
